@@ -1,4 +1,4 @@
-2. Write a program which swaps the values of BL and CL registers without using XCHG instruction.
+; Write a program which swaps the values of BL and CL registers without using XCHG instruction.
 Values must be printed on separate lines [Note: create named constants to add new line in program]
 
 .model small
