@@ -1,2 +1,3 @@
 # Assembly_Language
-In this Labs and Programs are related to Assembly Language usng Microprocessor 8086
+In this repository Programs are related to Assembly Language using Assembler Tasm intel 8086 processor
+
