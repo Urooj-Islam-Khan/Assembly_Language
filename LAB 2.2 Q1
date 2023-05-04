@@ -11,7 +11,7 @@
           mov al,bl
           int 21h
           
-          mov dl,0A
+          mov dl,0ah
           int 21h
           
           mov ah,2
