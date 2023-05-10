@@ -42,8 +42,6 @@
           mov ah,4ch
           int 21h
           
-          mov dl,0ah
-          int 21h
      
      main endp
      end main
