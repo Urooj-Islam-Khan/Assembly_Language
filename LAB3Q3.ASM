@@ -1,3 +1,5 @@
+;Write a program which swaps values of two variables.
+
 .model small
 .stack 100h
 .data
