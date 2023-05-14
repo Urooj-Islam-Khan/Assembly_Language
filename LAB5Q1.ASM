@@ -1,3 +1,5 @@
+; Write a program which takes a lowercase as input and prints uppercase on new line with appropriate message.
+
 .model small
 .stack 100h
 .data
