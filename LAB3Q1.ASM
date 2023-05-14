@@ -1,3 +1,4 @@
+;Write a program which swaps the values of bl and cl register using XCHG intruction.
 .model small
 .stack 100
 .data
