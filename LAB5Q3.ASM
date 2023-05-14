@@ -1,3 +1,5 @@
+; Write program which subtracts content oh bh and bl using two's complement.
+
 .model small
 .stack 100h
 .data
