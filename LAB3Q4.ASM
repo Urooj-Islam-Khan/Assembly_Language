@@ -1,3 +1,6 @@
+;Write a program which takes two numbers as input and print their sum on next line.
+;[Sum of two numbers should be less than or equal to 9]
+
 .model small
 .stack 100h
 .data
