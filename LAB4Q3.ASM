@@ -1,3 +1,5 @@
+; Write a program which prints your name vertically using single string variable.
+
 .model small
 .stack 100h
 .data
