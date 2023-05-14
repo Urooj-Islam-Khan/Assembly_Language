@@ -1,3 +1,6 @@
+;Write a program which swaps the values of bl and cl registers without using XCHG intruction. Values must be printed on separate lines
+;[Note: create named constants to add new line in program]
+
 .model small
 .stack 100h
 .data
